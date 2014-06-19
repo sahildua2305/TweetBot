@@ -143,14 +143,10 @@ I could bear those hypocritical smiles no longer!
 I felt that I must scream or die!
 and now—again!—hark!
 Louder!
-Louder!
-Louder!
-Louder!
 "Villains!
 "I shrieked, "dissemble no more!
 I admit the deed!—tear up the planks!
 here, here!—It is the beating of his hideous heart!"
-------- THE END -------
 THE RAVEN. By Edgar Allan Poe.
 Once upon a midnight dreary, while I pondered, weak and weary, 
 Over many a quaint and curious volume of forgotten lore—
@@ -260,7 +256,6 @@ And his eyes have all the seeming of a demon's that is dreaming,
 And the lamp-light o'er him streaming throws his shadow on the floor;
 And my soul from out that shadow that lies floating on the floor
 Shall be lifted—nevermore!
------- THE END -------
 THE FALL OF THE HOUSE OF USHER. By Edgar Allan Poe.
 Son cœur est un luth suspendu; Sitôt qu’on le touche il résonne. —De Béranger.
 DURING the whole of a dull, dark, and soundless day in the autumn of the year, when the clouds hung oppressively low in the heavens,
@@ -508,7 +503,7 @@ I well remember that suggestions arising from this ballad, led us into a train o
 wherein there became manifest an opinion of Usher’s which I mention not so much on account of its novelty 
 (for other men have thought thus), as on account of the pertinacity with which he maintained it.
 This opinion, in its general form, was that of the sentience of all vegetable things.
-SPLIT But, in his disordered fancy, the idea had assumed a more daring character, and trespassed, 
+But, in his disordered fancy, the idea had assumed a more daring character, and trespassed, 
 under certain conditions, upon the kingdom of inorganization.
 I lack words to express the full extent, or the earnest abandon of his persuasion.
 The belief, however, was connected (as I have previously hinted) with the gray stones of the home of his forefathers.
@@ -715,4 +710,3 @@ in a zigzag direction, to the base./nSPLIT While I gazed, this fissure rapidly w
 —there came a fierce breath of the whirlwind—the entire orb of the satellite burst at once upon my sight—
 —my brain reeled as I saw the mighty walls rushing asunder—there was a long tumultuous shouting sound like the voice of a thousand waters—
 —and the deep and dank tarn at my feet closed sullenly and silently over the fragments of the "House of Usher."
------- THE END -------
