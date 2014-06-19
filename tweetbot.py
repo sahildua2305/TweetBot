@@ -1,9 +1,8 @@
 import time
-import tweepy
 
 
 def main():
-    f = open('twitterbot.txt', 'rU')
+    f = open('tweetbot.txt', 'rU')
     for line in f:
         print line,
         time.sleep(3)
